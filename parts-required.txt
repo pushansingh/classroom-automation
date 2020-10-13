@@ -1,5 +1,5 @@
 ** Parts-Required **
-The following parts are required for the assembly and prototyping of our project :-
+The following parts are required for the assembly and prototyping of our project :
 Raspberry Pi (model zero or above)
 NodeMCU with ESP8266 WiFi module 
 USB Microphone
