@@ -1,0 +1,26 @@
+** Parts-Required **
+The following parts are required for the assembly and prototyping of our project :-
+Raspberry Pi (model zero or above)
+NodeMCU with ESP8266 WiFi module 
+USB Microphone
+Speaker
+Jumper cables (F2F)
+Breadboard
+Perfboard
+Relay module preferably 4 channel with Octocoupler
+Screen / display module
+Micro SD card
+API keys from all services 
+AC to 5v dc adapter
+Card reader
+Keyboard
+Mouse 
+HDMI Cable
+Case for Raspberry PI
+Heatsink for Raspberry PI
+Custom case for display assembly 
+Custom case for base control assembly
+
+(links available in next comit)
+
+**note:** The following parts have been used in both prototyping and final assembly of our project. The final list of parts to be used in a commercially viable system will be significantly smaller.
