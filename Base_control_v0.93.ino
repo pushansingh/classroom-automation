@@ -1,10 +1,9 @@
 /*
  * Base_controll
- * V0.92 [13-05-2020]
+ * V0.93
  * Platform:- NodeMCU ESP8266
  * Google Assistant + Amazon Alexa Control
  * Code by:- Yash Mukhija & Pushan Singh
- * NODISTRIBUTE ONLY FOR NTCC *  
 */
 
 
