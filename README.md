@@ -1,10 +1,10 @@
 # classroom-automation
-This project is made to construct a “School Automation System” using Raspberry pi and Arduino modules.
-Our main objective for this project was to develop a home/class automation system using an Arduino compatible board for Educational Institutes and for Smart Homes. As technology is advancing so our education System needs to get smarter too. A number of technologies that we are using currently in smart homes can be used to meet a number of requirements. By making these innovations in homes and classrooms can remove the need for care and award autonomy to the individuals who may be more focused on giving out productivity. This paper aims to discuss home automation systems for School and University Level by using AI and device control with IOT systems.
-This project is made to construct a “School Automation System” using Raspberry pi and Arduino modules. Raspberry pi is a computer on a board. Raspberry pi uses a large number of peripherals. It enables the simultaneous monitoring of the number of home appliances. Local server on Raspberry pi is made to achieve this. Users can use a variety of mobile devices, such as smartphones, laptops and tablets to use a user interface on the web. Our target is to make a system where the user isn't required any touch feedback to do this thing so that even a blind person or a dumb person can use it. He can simply do this by telling the system what to do and this small device does the required thing.
+This project is made to construct a “School Automation System” using Raspberry pi and [Arduino](https://www.arduino.cc/) modules.
+Our main objective for this project was to develop a home/class automation system using an [Arduino](https://www.arduino.cc/) compatible board for Educational Institutes and for Smart Homes. As technology is advancing so our education System needs to get smarter too. A number of technologies that we are using currently in smart homes can be used to meet a number of requirements. By making these innovations in homes and classrooms can remove the need for care and award autonomy to the individuals who may be more focused on giving out productivity. This paper aims to discuss home automation systems for School and University Level by using AI and device control with IOT systems.
+This project is made to construct a “School Automation System” using Raspberry pi and [Arduino](https://www.arduino.cc/) modules. Raspberry pi is a computer on a board. Raspberry pi uses a large number of peripherals. It enables the simultaneous monitoring of the number of home appliances. Local server on Raspberry pi is made to achieve this. Users can use a variety of mobile devices, such as smartphones, laptops and tablets to use a user interface on the web. Our target is to make a system where the user isn't required any touch feedback to do this thing so that even a blind person or a dumb person can use it. He can simply do this by telling the system what to do and this small device does the required thing.
 
-**Proposed model**
-We have proposed a model for classroom automation both in Universities and Schools and Homes. To do this we have divided our model into two parts i.e. Base control and AI deployment part. By combining these two parts we can have a seamless integration of our system in classrooms and in homes without disrupting the normal workflow or the existing hardware.
+**Proposed Product**
+We have proposed a product for classroom automation both in Universities and Schools and Homes. To do this we have divided our model into two parts i.e. Base control and AI deployment part. By combining these two parts we can have a seamless integration of our system in classrooms and in homes without disrupting the normal workflow or the existing hardware.
 
 The two parts of our project can be explained as follows:-
 
@@ -27,7 +27,7 @@ The “Raspberry Pi” is a small computer developed in the UK by the “Raspber
 
 Raspberry Pi Specifications (b) Raspberry Pi 3B+ Diagram (c) Working of Raspberry Pi (d) Raspberry Pi 3B+
 
- 	2. Relay
+ 2. Relay
 Relay is an electromagnetic switch. Relay permits one circuit to switch another circuit while they are separated. Relay is used when we have a device that requires a high voltage to function and we have a low voltage circuit.. For example, 5V relay connection supply to power the bulb on 230V AC power is sufficient. Relays can be used in different operating voltage configurations such as 6V, 9V, 12V or 24V, etc.. The relay consists of two parts, one of which is the input and another is the output. The input side of the relay is a magnetic field  when it receives a small voltage. Relays have three contactors: normally open (NC) and common (COM). Electrical appliances may turn on or off using the correct combinations of contactors.. 
 
 
