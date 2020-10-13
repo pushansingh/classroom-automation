@@ -20,7 +20,3 @@ Case for Raspberry PI
 Heatsink for Raspberry PI
 Custom case for display assembly 
 Custom case for base control assembly
-
-(links available in next comit)
-
-**note:** The following parts have been used in both prototyping and final assembly of our project. The final list of parts to be used in a commercially viable system will be significantly smaller.
