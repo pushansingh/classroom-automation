@@ -1,0 +1,9 @@
+For the deployment of AI, First we install an OS on our Device. Raspbian is the official
+supported OS for pi and we installed that on our Raspberry Pi. We downloaded The ISO image
+from the Pi Foundation website and flashed the ISO image using “Raspberry Pi Imager” which is
+the official flasher for the raspberry pi on our SD card then we proceeded to install the OS on our
+Raspberry Pi
+http://www.raspbian.org/RaspbianInstaller
+Virtual Network Computing(VNC) is a GUI desktop sharing application that allows us to
+remotely control the desktop interface of one OS from another OS and from one computer to
+another computer or smartphone
