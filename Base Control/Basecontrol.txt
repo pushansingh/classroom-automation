@@ -1,0 +1,1 @@
+In this part we use an IOT device to control an array of relay switches which turn on and off the existing switches in each room this device is also used to turn on and of certain devices that may be crucial to the working of a classroom such as projector and AC etc. we can also use this for television etc. in a home scenario. 
